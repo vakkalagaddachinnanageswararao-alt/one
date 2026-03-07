@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://100.24.106.140:8081/repository/Nani/</url>
+		    <url>http:http://18.212.134.33:8081/repository/nani/</url>
 		</repository>
   	</distributionManagement>
 	
