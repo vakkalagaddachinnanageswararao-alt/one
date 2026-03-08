@@ -826,7 +826,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>summer collections 2026 Version -4</h1>
+            <h1>winter collections 2026 Version -4</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
@@ -850,7 +850,7 @@
             </div>
             <div class="category-card">
                 <div class="category-icon"><i class="fas fa-laptop"></i></div>
-                <h3>Laptops</h3>
+                <h3>Laptops  mac book </h3>
                 <p>Powerful machines for work & play</p>
             </div>
             <div class="category-card">
